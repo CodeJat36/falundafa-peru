@@ -89,10 +89,6 @@
         }
     });
 
-    $('.carousel').carousel();
-
     
 })(jQuery);
-
-
 

@@ -3,13 +3,13 @@
 define("DB_HOST","localhost");
 
 //Nombre de la base de datos
-define("DB_NAME", "falundafa_db");
+define("DB_NAME", "u461106059_falundafa_db");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "root");
+define("DB_USERNAME", "u461106059_deloryum");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "");
+define("DB_PASSWORD", "362514CJt");
 
 //definimos la codificación de los caracteres
 define("DB_ENCODE","utf8");

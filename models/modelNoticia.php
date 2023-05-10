@@ -2,7 +2,7 @@
 function getDatos()
 {
     // Conectar a la base de datos
-    $conn = new mysqli('localhost', 'root','', 'falundafa_db');
+    $conn = new mysqli('localhost', 'u461106059_deloryum','362514CJt', 'u461106059_falundafa_db');
 
     // Verificar la conexión
     if ($conn->connect_error) {
